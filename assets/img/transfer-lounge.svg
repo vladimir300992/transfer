@@ -1,0 +1,15 @@
+<svg width="520" height="340" viewBox="0 0 520 340" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="520" height="340" rx="28" fill="#f2f7f9" />
+  <path d="M70 254h380c20 0 36-16 36-36v-16c0-24-20-44-44-44H154c-38 0-68 30-68 68v28Z" fill="#0c9cd8" fill-opacity="0.78" />
+  <path d="M124 150h268c28 0 52 22 52 50v10H154c-28 0-52-22-52-50 0-6 2-10 6-10Z" fill="#043d58" fill-opacity="0.45" />
+  <rect x="110" y="118" width="72" height="24" rx="12" fill="#fff" fill-opacity="0.8" />
+  <rect x="202" y="104" width="140" height="64" rx="18" fill="#fff" fill-opacity="0.9" />
+  <path d="M248 104c10-30 40-48 72-42 34 6 56 38 50 72l-2 12" stroke="#0c9cd8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="166" cy="260" r="32" fill="#072f44" />
+  <circle cx="166" cy="260" r="18" fill="#fff" fill-opacity="0.92" />
+  <circle cx="344" cy="260" r="32" fill="#072f44" />
+  <circle cx="344" cy="260" r="18" fill="#fff" fill-opacity="0.92" />
+  <path d="M400 94c0 22 18 40 40 40s40-18 40-40-18-40-40-40-40 18-40 40Z" fill="#0c9cd8" fill-opacity="0.75" />
+  <path d="M422 94c0 9 9 18 18 18s18-9 18-18-9-18-18-18-18 9-18 18Z" fill="#fff" fill-opacity="0.9" />
+  <path d="M68 280h60" stroke="#0c9cd8" stroke-width="10" stroke-linecap="round" stroke-opacity="0.4" />
+</svg>
